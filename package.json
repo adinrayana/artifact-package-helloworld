@@ -1,0 +1,14 @@
+{
+  "name": "@adinrayana/artifact-package-helloworld",
+  "version": "1.0.0",
+  "description": "creating to test artifacts push to githug packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adinrayana",
+  "license": "ISC",
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  }
+}
